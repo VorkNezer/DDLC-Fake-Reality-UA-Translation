@@ -1,0 +1,7 @@
+I'm really sorry if you can see this.
+Ren'py tends to break and I can't fix it.
+This only works on windows as far as I'm conserned.
+Here's the location:
+C:\Users\<username>\AppData\Roaming\RenPy
+Copy and paste this on the location bar andd delete the folder named "DokiDokiFakeReality".
+Again, I'm sorry.
